@@ -1,0 +1,14 @@
+site_name: DQ ETL Documentation
+
+nav:
+    - 'Introduction': 'index.md'
+    - 'Setup & Installation': 'setup_installation.md'
+    - 'How to Use': 'how_to_use.md'
+    - 'Project Structure': 'project_structure.md'
+    - 'DB setup': 'docker_db_setup.md'
+    - 'Introduction to DBs' : 'db_intros.md'
+theme:
+  name: 'material'
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: "slate"
